@@ -88,8 +88,8 @@ webpack内置的`DefinePlugin`,根据编辑环境去设置是否开启debug,注�
 ```
 root: 'D:\\workspace\\duotao\\Server\\code\\duobao_foreign\\treasure_service'
 ```
-`webpack.optimize.UglifyJsPlugin` 使用UglifyJs协议压缩
+`webpack.optimize.UglifyJsPlugin` 使用UglifyJs协议压缩。
 
 `webpack.optimize.OccurenceOrderPlugin`按引用频度来排序 ID，以便达到减少文件大小的效果。
 
-`extract-text-webpack-plugin`是否提取(样式)文件
+`extract-text-webpack-plugin`是否提取(样式)文件。
