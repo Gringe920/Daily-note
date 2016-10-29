@@ -1,4 +1,4 @@
 # Daily-note
-myFistGithub
+myFirstGithub
 
 [Webpack](webpack/about-webpack.md)
