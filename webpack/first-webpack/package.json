@@ -1,0 +1,38 @@
+{
+  "name": "gringe",
+  "version": "1.0.0",
+  "description": "first-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "gringe",
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gringe920/Daily-note.git"
+  },
+  "keywords": [
+    "091509"
+  ],
+  "author": "gringe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gringe920/Daily-note/issues"
+  },
+  "homepage": "https://github.com/Gringe920/Daily-note#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "css-loader": "^0.25.0",
+    "html-webpack-plugin": "^2.24.1",
+    "jquery": "^3.1.1",
+    "moment": "^2.15.2",
+    "node-sass": "^3.10.1",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
